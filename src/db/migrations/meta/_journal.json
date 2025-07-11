@@ -8,6 +8,13 @@
       "when": 1751971510548,
       "tag": "0000_safe_captain_universe",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752168684291,
+      "tag": "0001_eager_barracuda",
+      "breakpoints": true
     }
   ]
 }
